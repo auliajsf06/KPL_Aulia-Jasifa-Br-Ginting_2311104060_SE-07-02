@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\TPModul3_2311104070\TPModul3_2311104070\bin\Debug\TPModul3_2311104070.exe.config
+C:\Users\LENOVO\source\repos\TPModul3_2311104070\TPModul3_2311104070\bin\Debug\TPModul3_2311104070.exe
+C:\Users\LENOVO\source\repos\TPModul3_2311104070\TPModul3_2311104070\bin\Debug\TPModul3_2311104070.pdb
+C:\Users\LENOVO\source\repos\TPModul3_2311104070\TPModul3_2311104070\obj\Debug\TPModul3_2311104070.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\TPModul3_2311104070\TPModul3_2311104070\obj\Debug\TPModul3_2311104070.Form1.resources
+C:\Users\LENOVO\source\repos\TPModul3_2311104070\TPModul3_2311104070\obj\Debug\TPModul3_2311104070.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\TPModul3_2311104070\TPModul3_2311104070\obj\Debug\TPModul3_2311104070.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\TPModul3_2311104070\TPModul3_2311104070\obj\Debug\TPModul3_2311104070.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TPModul3_2311104070\TPModul3_2311104070\obj\Debug\TPModul3_2311104070.exe
+C:\Users\LENOVO\source\repos\TPModul3_2311104070\TPModul3_2311104070\obj\Debug\TPModul3_2311104070.pdb
