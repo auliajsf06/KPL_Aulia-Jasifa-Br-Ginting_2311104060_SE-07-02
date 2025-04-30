@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\TPModul10_2311104060\AljabarLibrarys\bin\Debug\net8.0\AljabarLibrarys.deps.json
+C:\Users\LENOVO\source\repos\TPModul10_2311104060\AljabarLibrarys\bin\Debug\net8.0\AljabarLibrarys.dll
+C:\Users\LENOVO\source\repos\TPModul10_2311104060\AljabarLibrarys\bin\Debug\net8.0\AljabarLibrarys.pdb
+C:\Users\LENOVO\source\repos\TPModul10_2311104060\AljabarLibrarys\obj\Debug\net8.0\AljabarLibrarys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\TPModul10_2311104060\AljabarLibrarys\obj\Debug\net8.0\AljabarLibrarys.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\TPModul10_2311104060\AljabarLibrarys\obj\Debug\net8.0\AljabarLibrarys.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\TPModul10_2311104060\AljabarLibrarys\obj\Debug\net8.0\AljabarLibrarys.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TPModul10_2311104060\AljabarLibrarys\obj\Debug\net8.0\AljabarLibrarys.sourcelink.json
+C:\Users\LENOVO\source\repos\TPModul10_2311104060\AljabarLibrarys\obj\Debug\net8.0\AljabarLibrarys.dll
+C:\Users\LENOVO\source\repos\TPModul10_2311104060\AljabarLibrarys\obj\Debug\net8.0\refint\AljabarLibrarys.dll
+C:\Users\LENOVO\source\repos\TPModul10_2311104060\AljabarLibrarys\obj\Debug\net8.0\AljabarLibrarys.pdb
+C:\Users\LENOVO\source\repos\TPModul10_2311104060\AljabarLibrarys\obj\Debug\net8.0\ref\AljabarLibrarys.dll
