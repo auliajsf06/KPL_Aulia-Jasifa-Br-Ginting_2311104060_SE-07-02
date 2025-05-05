@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\Jurnal10_2311104060\MatematikaLibraries\bin\Debug\net8.0\MatematikaLibraries.deps.json
+C:\Users\LENOVO\source\repos\Jurnal10_2311104060\MatematikaLibraries\bin\Debug\net8.0\MatematikaLibraries.dll
+C:\Users\LENOVO\source\repos\Jurnal10_2311104060\MatematikaLibraries\bin\Debug\net8.0\MatematikaLibraries.pdb
+C:\Users\LENOVO\source\repos\Jurnal10_2311104060\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Jurnal10_2311104060\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Jurnal10_2311104060\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Jurnal10_2311104060\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Jurnal10_2311104060\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.sourcelink.json
+C:\Users\LENOVO\source\repos\Jurnal10_2311104060\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.dll
+C:\Users\LENOVO\source\repos\Jurnal10_2311104060\MatematikaLibraries\obj\Debug\net8.0\refint\MatematikaLibraries.dll
+C:\Users\LENOVO\source\repos\Jurnal10_2311104060\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.pdb
+C:\Users\LENOVO\source\repos\Jurnal10_2311104060\MatematikaLibraries\obj\Debug\net8.0\ref\MatematikaLibraries.dll
